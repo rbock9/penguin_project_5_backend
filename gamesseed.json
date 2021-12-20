@@ -1,0 +1,47 @@
+[
+    {
+        "title": "The Legend of Zelda: Breath of the Wild",
+        "imagelink": "https://upload.wikimedia.org/wikipedia/en/c/c6/The_Legend_of_Zelda_Breath_of_the_Wild.jpg",
+        "developer": "Nintendo EPD",
+        "publisher": "Nintendo",
+        "platform": "Nintendo Switch, Wii U",
+        "release": "March 3, 2017",
+        "summary": "The Legend of Zelda: Breath of the Wild is an open world action-adventure game developed and published by Nintendo for the Nintendo Switch and Wii U consoles."
+    },
+    {
+        "title": "Super Smash Bros. Ultimate",
+        "imagelink": "https://upload.wikimedia.org/wikipedia/en/5/50/Super_Smash_Bros._Ultimate.jpg",
+        "developer": "Bandai Namco Studios, Sora Ltd.",
+        "publisher": "Nintendo",
+        "platform": "Nintendo Switch",
+        "release": "December 7, 2018",
+        "summary": "Super Smash Bros. Ultimate is a 2018 Japanese crossover fighting game developed by Bandai Namco Studios and Sora Ltd. and published by Nintendo for the Nintendo Switch."
+    },
+    {
+        "title": "Banjo-Kazooie",
+        "imagelink": "https://upload.wikimedia.org/wikipedia/en/1/12/Banjo_Kazooie_Cover.png",
+        "developer": "Rare",
+        "publisher": "Nintendo, Microsoft Game Studios (Xbox 360)",
+        "platform": "Nintendo 64, Xbox 360",
+        "release": "June 29, 1998",
+        "summary": "Banjo-Kazooie is a platform video game developed by Rare and originally released for the Nintendo 64 console in 1998. It is the first game in the Banjo-Kazooie series and follows the story of a bear, Banjo, and a bird, Kazooie, as they try to stop the witch Gruntilda, who intends to steal the beauty of Banjo's younger sister, Tooty, for herself."
+    },
+    {
+        "title": "Super Castlevania IV",
+        "imagelink": "https://upload.wikimedia.org/wikipedia/en/c/c2/Super_Castlevania_IV_North_American_SNES_box_art.png",
+        "developer": "Konami",
+        "publisher": "Konami",
+        "platform": "Super NES",
+        "release": "December 4, 1991",
+        "summary": "Super Castlevania IV is a 1991 platform game developed and published by Konami. Following the same setting as Castlevania on the NES, the game takes place in 1691 Transylvania, where the vampire hunter Simon Belmont must defeat the vampire Dracula."
+    },
+    {
+        "title": "Luigi's Mansion",
+        "imagelink": "https://upload.wikimedia.org/wikipedia/en/5/5e/Lmbox.jpg",
+        "developer": "Nintendo EAD",
+        "publisher": "Nintendo",
+        "platform": "Nintendo GameCube",
+        "release": "November 18, 2001",
+        "summary": "Luigi's Mansion is an action-adventure video game developed and published by Nintendo for the GameCube. Players control Luigi as he explores a haunted mansion, searches for Mario and deals with ghosts by capturing them through a vacuum cleaner supplied by Professor E. Gadd, a la Ghostbusters."
+    }
+]
